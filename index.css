@@ -28,17 +28,22 @@
 .navbar{
     display: flex;
     justify-content: flex-end;
+    margin: 10px;
 }
 
 button{
     font-family: monospace;
     font-weight: 500;
     font-size: 16px;
-    padding: 9px 25px;
-    background-color: tomato;
+    padding: 10px 15px;
+    background-color:rebeccapurple;
     border: none;
     border-radius: 50px;
     cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
 }
 
 body{
@@ -50,9 +55,22 @@ h1,h4,h5{
     font-family: monospace;
 }
 
+#section1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
 img{
     float: left;
     padding: 20px 20px 20px 200px;
+}
+
+#section2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 footer{
