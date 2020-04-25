@@ -25,6 +25,22 @@
     padding: 10px 20px;
 }
 
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+button{
+    font-family: monospace;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 9px 25px;
+    background-color: tomato;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
 body{
     color: whitesmoke;
     background-color: #000000;
