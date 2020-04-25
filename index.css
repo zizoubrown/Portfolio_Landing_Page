@@ -1,3 +1,8 @@
 header{
-    background-image: url();
+    background-image: url(/images/bunner.jpg);
+    height: 70vh;
+}
+body{
+    color: whitesmoke;
+    background-color: #000000;
 }
