@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 .banner{
     background-image: url(/images/bunner.jpg);
     background-size: cover;
@@ -13,20 +14,29 @@
     align-items: center;
 }
 
-.navbar{
-    float: right;
+.banner h1{
+    font-size: 50px;
 }
+
+.banner a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
 body{
     color: whitesmoke;
     background-color: #000000;
 }
+
 h1,h4,h5{
     font-family: monospace;
 }
+
 img{
     float: left;
     padding: 20px 20px 20px 200px;
 }
+
 footer{
     background-color: #545252;
     position: relative;
