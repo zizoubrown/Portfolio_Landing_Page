@@ -18,6 +18,7 @@ h1,h4,h5{
 }
 img{
     float: left;
+    padding: 20px 20px 20px 200px;
 }
 footer{
     background-color: #545252;
