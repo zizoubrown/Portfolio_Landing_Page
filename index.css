@@ -1,8 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 header{
     background-image: url(/images/bunner.jpg);
     height: 70vh;
 }
+nav{
+    float: right;
+}
 body{
     color: whitesmoke;
     background-color: #000000;
+}
+img{
+    float: left;
 }
