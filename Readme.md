@@ -12,7 +12,7 @@ To run the application in your terminal:
 - Open the media.html on the browser
 
 #### Link to the live site
-
+https://zizoubrown.github.io/Portfolio_Landing_Page/
 
 ### License
 This project is licensed under the terms of the MIT license
