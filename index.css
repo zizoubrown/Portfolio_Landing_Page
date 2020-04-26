@@ -4,7 +4,7 @@
 }
 
 .banner{
-    background-image: url(/images/bunner.jpg);
+    background-image: url(/images/project\ banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -16,6 +16,7 @@
 
 .banner h1{
     font-size: 50px;
+    padding: 5px;
 }
 
 .banner a{
@@ -25,13 +26,22 @@
     padding: 10px 20px;
 }
 
+.banner a:hover{
+    color: rebeccapurple;
+}
+
 .navbar{
     display: flex;
     justify-content: flex-end;
     margin: 10px;
 }
 
+.navbar a{
+    padding: 10px;
+}
+
 button{
+    color: whitesmoke;
     font-family: monospace;
     font-weight: 500;
     font-size: 16px;
@@ -43,6 +53,7 @@ button{
 }
 
 button:hover{
+    color: #000000;
     background-color: white;
 }
 
@@ -86,7 +97,7 @@ img{
 }
 
 footer{
-    background-color: #545252;
+    background-color: #24252a;
     position: relative;
     margin:auto;
 }
